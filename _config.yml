@@ -7,7 +7,7 @@ github_username: username
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme:jekyll-theme-minimal
 
 # Permalinks
 permalink: /:categories/:title/
