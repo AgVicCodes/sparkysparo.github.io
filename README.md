@@ -90,15 +90,15 @@ I am a strong communicator with excellent problem-solving abilities, adept at co
 
 ## Certifications
 
-- [Data Science Orientation, December 2022](#) (Insert link when available)
-- [Excel To Power BI, January 2024](#) (Insert link when available)
-- [Data Visualization (Kaggle), 2024](#) (Insert link when available)
-- [Microsoft Power BI, 2024](#) (Insert link when available)
-- [Foundations of Data Science: K Means Clustering in Python, August 2023](#) (Insert link when available)
-- [Excel For Data Analysis, September 2023](#) (Insert link when available)
-- [SQL (DataCamp), 2024](#) (Insert link when available)
-- [Data Science Diploma (Allison)](#) (Insert link when available)
-- [Data Analyst Associate, 2024](#) (Insert link when available)
+- [Data Science Orientation, December 2022](https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/)
+- [Excel To Power BI, January 2024](https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/)
+- [Data Visualization (Kaggle), 2024](https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/)
+- [Microsoft Power BI, 2024](https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/)
+- [Foundations of Data Science: K Means Clustering in Python, August 2023](https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/)
+- [Excel For Data Analysis, September 2023](https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/)
+- [SQL (DataCamp), 2024](https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/)
+- [Data Science Diploma (Allison)](https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/)
+- [Data Analyst Associate, 2024](https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/)
 
 ## Hobbies
 
