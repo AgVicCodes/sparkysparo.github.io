@@ -1,62 +1,105 @@
-# My GitHub Pages Site
+# Paschal Chiadikaobi Uzoegwu - Data Analyst & Data Scientist
 
-Welcome to my GitHub Pages site! This repository hosts a simple website designed to showcase my projects and blog posts. Below, you'll find an overview of the key configurations and settings used for this site.
+Welcome to my GitHub Pages site! This repository serves as a portfolio showcasing my expertise and projects as a Data Analyst and a Data Scientist. Below, you'll find details about my education, skills, professional experience, projects, certifications, and more.
 
-## Site Details
+## Personal Information
 
-- **Site Title:** My GitHub Pages Site
-- **Description:** A simple site for showcasing projects and blog posts.
-- **URL:** [https://username.github.io](https://username.github.io)
+- **LinkedIn:** [Uzoegwu Paschal](https://www.linkedin.com/in/uzoegwu-paschal)
+- **Phone:** +4407503941126
+- **Email:** sparkysparo@yahoo.com
 
-## Configuration
+## Personal Summary
 
-### Build Settings
+I am an accomplished Data Analyst and Data Scientist with weatlth of experience in financial modeling, analytical prowess, and SQL proficiency. As a Data Analyst, I excel in presenting complex findings, managing projects, and transforming raw data into actionable insights. I have a proven track record of supporting senior analysts, managing workflows, and contributing to reports and qualitative insights.
 
-- **Markdown Parser:** kramdown
-- **Theme:** minima
+In addition to my expertise as a Data Analyst, I bring strong skills as a Data Scientist. I am proficient in utilizing advanced techniques such as deep learning and machine learning algorithms to extract meaningful insights and enhance decision-making processes. My skill set includes proficiency in Python, SQL, and R programming languages, along with frameworks such as Pandas, NumPy, Scikit-Learn, and visualization tools like Matplotlib and Seaborn. I am experienced in developing predictive models, creating data visualizations, and deploying scalable data pipelines to streamline data processing.
 
-### Permalinks
+I am a strong communicator with excellent problem-solving abilities, adept at collaborating with cross-functional teams to understand business requirements and deliver data-driven solutions. My soft skills include effective stakeholder management, teamwork, and delivering compelling presentations to communicate complex technical concepts effectively.
 
-- **Structure:** `/:categories/:title/`
-- **Pagination:** 5 posts per page
+## Education
 
-### Google Analytics
+- **Master of Science (MSc) in Data Science**
+  - University of Hertfordshire, Hatfield, United Kingdom
 
-- **Tracking ID:** UA-XXXXXXXX-X
+- **Bachelor of Science (BSc) in Anatomy**
+  - Nnamdi Azikiwe University, Awka, Anambra, Nigeria
 
-### Social Links
+## Skills Summary
 
-- **Twitter:** [https://twitter.com/yourhandle](https://twitter.com/yourhandle)
-- **GitHub:** [https://github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn:** [https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/yourprofile/)
+- **Languages:** Python, SQL, R
+- **Frameworks:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+- **Tools:** Power BI, Excel, PowerPoint, Tableau, MySQL, SQLite, Spyder, Jupyter
+- **Platforms:** Jupyter Notebook, PyCharm, Spyder, Visual Studio Code
+- **Soft Skills:** Team collaboration, Strong Stakeholder Management, Excellent communication
 
-### Author
+## Professional Experience
 
-- **Name:** Your Name
-- **Email:** your-email@example.com
-- **Twitter:** @yourhandle
+### British Airways
+#### June 2024
 
-### Plugins
+- **Data Science Job Simulation on Forage**
+  - Demonstrated data science's impact on British Airways by improving operational efficiency and customer satisfaction.
+  - Scraped and analyzed customer review data, enhancing service quality and increasing customer satisfaction.
+  - Built a predictive model for targeted marketing efforts, leading to increased sales.
 
-- **jekyll-feed**
-- **jekyll-seo-tag**
+### Accenture North America
+#### June 2024
 
-### Defaults for Posts
+- **Data Analytics and Visualization Job Simulation on Forage**
+  - Advised a hypothetical social media client by analyzing content trends and preparing strategic insights.
+  - Presented findings through a PowerPoint deck and video presentation.
 
-- **Layout:** post
-- **Author:** Your Name
+### The University of Hertfordshire
+#### 2023 – 2024
 
-### Custom Variables
+- **Career Development (Data Scientist)**
+  - Developed predictive models and algorithms using deep learning techniques, increasing accuracy.
+  - Applied machine learning to analyze datasets and enhance decision-making processes.
+  - Created data visualizations to communicate insights effectively.
 
-- `custom_var`: custom_value
+### Nnamdi Azikiwe University Teaching Hospital
+#### 2020 – 2023
 
-### Jekyll Feed Configuration
+- **Data Analyst**
+  - Designed reporting environments and created visual reports using Tableau and Power BI.
+  - Applied statistical methods to improve data accuracy and contribute to business strategy.
+  - Processed confidential patient data according to guidelines.
 
-- **Feed Path:** atom.xml
+### Concept Hub
+#### 2019 – 2020
 
-## Getting Started
+- **Data Entry Clerk**
+  - Maintained database accuracy by entering and purging data.
+  - Ensured confidentiality compliance and data integrity.
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/username/username.github.io.git
-   cd username.github.io
+## Projects
+
+- **Analysis of Happiness Regional Variations**
+  - Used Python to explore happiness scores across regions, identifying key influencing factors.
+  - Presented findings to increase awareness of regional disparities in happiness.
+
+- **Analysis of Bank Authentication Data**
+  - Employed clustering algorithms to detect patterns in transaction data, improving fraud detection.
+
+- **Investigating Netflix Movies**
+  - Analyzed movie length trends on Netflix using Python, contributing to content strategy planning.
+
+## Certifications
+
+- Data Science Orientation, December 2022
+- Excel To Power BI, January 2024
+- Data Visualization (Kaggle), 2024
+- Microsoft Power BI, 2024
+- Foundations of Data Science: K Means Clustering in Python, August 2023
+- Excel For Data Analysis, September 2023
+- SQL (DataCamp), 2024
+- Data Science Diploma (Allison)
+- Data Analyst Associate, 2024
+
+## Hobbies
+
+- Programming and Coding
+- Football
+- Providing useful insights with data
+- Basketball
+
