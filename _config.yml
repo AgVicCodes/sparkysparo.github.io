@@ -26,7 +26,7 @@ social_links:
 author:
   name: Paschal Uzoegwu
   email: sparkysparo@yahoo.com
-  twitter: yourhandle
+  twitter: sparkysparo
   image: /assets/author-profile.jpg  # Path to your author profile image
 
 # Plugins
@@ -56,46 +56,3 @@ custom_var: custom_value
 # Configuration for Jekyll Feed
 feed:
   path: atom.xml
-
-# Projects
-projects:
-  - name: Analysis of Happiness Regional Variations
-    description: Used Python to explore happiness scores across regions, identifying key influencing factors.
-    link: https://github.com/sparkysparo/Analysis-of-Happiness-Regional-Variations.Paschal-Uzoegwu-21063051.ADS-Assignment
-
-  - name: Analysis of Bank Authentication Data
-    description: Employed clustering algorithms to detect patterns in transaction data, improving fraud detection.
-    link: https://github.com/sparkysparo/Analysis-of-Bank-Authentication-Data.Paschal-Uzoegwu-21063051.ADS-Project-On-Clustering-And-Fitting
-
-  - name: Investigating Netflix Movies
-    description: Analyzed movie length trends on Netflix using Python, contributing to content strategy planning.
-    link: https://github.com/sparkysparo/Investigating-Netflix-Movies
-
-# Certifications
-certifications:
-  - name: Data Science Orientation
-    link: https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/
-
-  - name: Excel To Power BI
-    link: https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/
-
-  - name: Data Visualization (Kaggle)
-    link: https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/
-
-  - name: Microsoft Power BI
-    link: https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/
-
-  - name: Foundations of Data Science: K Means Clustering in Python
-    link: https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/
-
-  - name: Excel For Data Analysis
-    link: https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/
-
-  - name: SQL (DataCamp)
-    link: https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/
-
-  - name: Data Science Diploma (Allison)
-    link: https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/
-
-  - name: Data Analyst Associate
-    link: https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/
