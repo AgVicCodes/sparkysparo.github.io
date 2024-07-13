@@ -85,7 +85,7 @@ I am a strong communicator with excellent problem-solving abilities, adept at co
 
 - **Investigating Netflix Movies**
   - Analyzed movie length trends on Netflix using Python, contributing to content strategy planning.
-  - [Link to project](#) ([Insert link when available](https://github.com/sparkysparo/Investigating-Netflix-Movies))
+  - [Link to project](# [)](https://github.com/sparkysparo/Investigating-Netflix-Movies) 
 
 ## Certifications
 
