@@ -77,15 +77,16 @@ I am a strong communicator with excellent problem-solving abilities, adept at co
 - **Analysis of Happiness Regional Variations**
   - Used Python to explore happiness scores across regions, identifying key influencing factors.
   - Presented findings to increase awareness of regional disparities in happiness.
-  - [Link to project](#) (Insert link when available)
+  - [Analysis of Happiness Regional Variations](https://github.com/sparkysparo/Analysis-of-Happiness-Regional-Variations.Paschal-Uzoegwu-21063051.ADS-Assignment)
 
 - **Analysis of Bank Authentication Data**
   - Employed clustering algorithms to detect patterns in transaction data, improving fraud detection.
-  - [Link to project](#) ([Insert link when available](https://github.com/sparkysparo/Analysis-of-Happiness-Regional-Variations.Paschal-Uzoegwu-21063051.ADS-Assignment.))
+  - [Analysis of Bank Authentication Data](https://github.com/sparkysparo/Analysis-of-Bank-Authentication-Data.Paschal-Uzoegwu-21063051.ADS-Project-On-Clustering-And-Fitting)
 
 - **Investigating Netflix Movies**
   - Analyzed movie length trends on Netflix using Python, contributing to content strategy planning.
-  - [Link to project](# [)](https://github.com/sparkysparo/Investigating-Netflix-Movies) 
+  - [Investigating Netflix Movies](https://github.com/sparkysparo/Investigating-Netflix-Movies)
+
 
 ## Certifications
 
