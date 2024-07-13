@@ -56,3 +56,7 @@ custom_var: custom_value
 # Configuration for Jekyll Feed
 feed:
   path: atom.xml
+
+# Include directories
+include:
+  - assets
