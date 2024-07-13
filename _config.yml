@@ -1,9 +1,9 @@
 # Site settings
-title: "Paschal Chiadikaobi Uzoegwu's Portfolio"
-description: "Showcase of projects and blog posts by Paschal Chiadikaobi Uzoegwu, Data Analyst & Data Scientist"
-baseurl: "https://www.linkedin.com/in/uzoegwu-paschal/" 
-url: "https://sparkysparo.github.io" 
-github_username: Sparkysparo
+title: My GitHub Pages Site
+description: A simple site for showcasing my projects and blog posts.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://username.github.io" # the base hostname & protocol for your site
+github_username: username
 
 # Build settings
 markdown: kramdown
@@ -18,15 +18,16 @@ google_analytics: UA-XXXXXXXX-X # Your Google Analytics tracking ID
 
 # Social links
 social_links:
-  twitter: https://twitter.com/yourhandle
-  github: https://github.com/yourusername
-  linkedin: https://www.linkedin.com/in/yourprofile/
+  twitter: https://twitter.com/sparkysparo
+  github: https://github.com/sparkysparo
+  linkedin: https://www.linkedin.com/in/uzoegwu-paschal/
 
 # Author settings
 author:
-  name: Paschal Chiadikaobi Uzoegwu
+  name: Paschal Uzoegwu
   email: sparkysparo@yahoo.com
   twitter: yourhandle
+  image: /assets/author-profile.jpg  # Path to your author profile image
 
 # Plugins
 plugins:
@@ -47,7 +48,7 @@ defaults:
       type: posts
     values:
       layout: post
-      author: Paschal Chiadikaobi Uzoegwu
+      author: Paschal Uzoegwu
 
 # Custom variables
 custom_var: custom_value
@@ -55,3 +56,46 @@ custom_var: custom_value
 # Configuration for Jekyll Feed
 feed:
   path: atom.xml
+
+# Projects
+projects:
+  - name: Analysis of Happiness Regional Variations
+    description: Used Python to explore happiness scores across regions, identifying key influencing factors.
+    link: https://github.com/sparkysparo/Analysis-of-Happiness-Regional-Variations.Paschal-Uzoegwu-21063051.ADS-Assignment
+
+  - name: Analysis of Bank Authentication Data
+    description: Employed clustering algorithms to detect patterns in transaction data, improving fraud detection.
+    link: https://github.com/sparkysparo/Analysis-of-Bank-Authentication-Data.Paschal-Uzoegwu-21063051.ADS-Project-On-Clustering-And-Fitting
+
+  - name: Investigating Netflix Movies
+    description: Analyzed movie length trends on Netflix using Python, contributing to content strategy planning.
+    link: https://github.com/sparkysparo/Investigating-Netflix-Movies
+
+# Certifications
+certifications:
+  - name: Data Science Orientation
+    link: https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/
+
+  - name: Excel To Power BI
+    link: https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/
+
+  - name: Data Visualization (Kaggle)
+    link: https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/
+
+  - name: Microsoft Power BI
+    link: https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/
+
+  - name: Foundations of Data Science: K Means Clustering in Python
+    link: https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/
+
+  - name: Excel For Data Analysis
+    link: https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/
+
+  - name: SQL (DataCamp)
+    link: https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/
+
+  - name: Data Science Diploma (Allison)
+    link: https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/
+
+  - name: Data Analyst Associate
+    link: https://www.linkedin.com/in/uzoegwu-paschal/details/certifications/
