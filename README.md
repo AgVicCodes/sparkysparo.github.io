@@ -77,24 +77,27 @@ I am a strong communicator with excellent problem-solving abilities, adept at co
 - **Analysis of Happiness Regional Variations**
   - Used Python to explore happiness scores across regions, identifying key influencing factors.
   - Presented findings to increase awareness of regional disparities in happiness.
+  - [Link to project](#) (Insert link when available)
 
 - **Analysis of Bank Authentication Data**
   - Employed clustering algorithms to detect patterns in transaction data, improving fraud detection.
+  - [Link to project](#) ([Insert link when available](https://github.com/sparkysparo/Analysis-of-Happiness-Regional-Variations.Paschal-Uzoegwu-21063051.ADS-Assignment.))
 
 - **Investigating Netflix Movies**
   - Analyzed movie length trends on Netflix using Python, contributing to content strategy planning.
+  - [Link to project](#) ([Insert link when available](https://github.com/sparkysparo/Investigating-Netflix-Movies))
 
 ## Certifications
 
-- Data Science Orientation, December 2022
-- Excel To Power BI, January 2024
-- Data Visualization (Kaggle), 2024
-- Microsoft Power BI, 2024
-- Foundations of Data Science: K Means Clustering in Python, August 2023
-- Excel For Data Analysis, September 2023
-- SQL (DataCamp), 2024
-- Data Science Diploma (Allison)
-- Data Analyst Associate, 2024
+- [Data Science Orientation, December 2022](#) (Insert link when available)
+- [Excel To Power BI, January 2024](#) (Insert link when available)
+- [Data Visualization (Kaggle), 2024](#) (Insert link when available)
+- [Microsoft Power BI, 2024](#) (Insert link when available)
+- [Foundations of Data Science: K Means Clustering in Python, August 2023](#) (Insert link when available)
+- [Excel For Data Analysis, September 2023](#) (Insert link when available)
+- [SQL (DataCamp), 2024](#) (Insert link when available)
+- [Data Science Diploma (Allison)](#) (Insert link when available)
+- [Data Analyst Associate, 2024](#) (Insert link when available)
 
 ## Hobbies
 
