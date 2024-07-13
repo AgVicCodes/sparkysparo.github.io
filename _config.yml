@@ -1,13 +1,13 @@
 # Site settings
-title: Paschal  Uzoegwu's Portfolio
-description: Showcase of projects and blog posts by Paschal  Uzoegwu, Data Analyst & Data Scientist
-baseurl: "https://sparkysparo.github.io" 
-url: "https://sparkysparo.github.io"
-github_username: sparkysparo
+title: "Paschal Chiadikaobi Uzoegwu's Portfolio"
+description: "Showcase of projects and blog posts by Paschal Chiadikaobi Uzoegwu, Data Analyst & Data Scientist"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://username.github.io" # the base hostname & protocol for your site
+github_username: username
 
 # Build settings
 markdown: kramdown
-theme: minimal
+theme: minima
 
 # Permalinks
 permalink: /:categories/:title/
@@ -18,15 +18,15 @@ google_analytics: UA-XXXXXXXX-X # Your Google Analytics tracking ID
 
 # Social links
 social_links:
-  twitter: https://twitter.com/sparkysparo
-  github: https://github.com/sparkysparo
-  linkedin: https://www.linkedin.com/uzoegwu-paschal/
+  twitter: https://twitter.com/yourhandle
+  github: https://github.com/yourusername
+  linkedin: https://www.linkedin.com/in/yourprofile/
 
 # Author settings
 author:
   name: Paschal Chiadikaobi Uzoegwu
   email: sparkysparo@yahoo.com
-  twitter: @sparkysparo
+  twitter: yourhandle
 
 # Plugins
 plugins:
