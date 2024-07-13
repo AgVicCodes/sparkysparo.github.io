@@ -1,9 +1,9 @@
 # Site settings
 title: Paschal  Uzoegwu's Portfolio
 description: Showcase of projects and blog posts by Paschal  Uzoegwu, Data Analyst & Data Scientist
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://username.github.io" # the base hostname & protocol for your site
-github_username: username
+baseurl: "https://sparkysparo.github.io" 
+url: "https://sparkysparo.github.io"
+github_username: sparkysparo
 
 # Build settings
 markdown: kramdown
